@@ -40,7 +40,7 @@ across time and multiple business dimensions.
 
 ### Dashboard Preview
 
-![Office Furniture Sales Dashboard](screenshots/office-furniture-dashboard.png)
+![Office Furniture Sales Dashboard](screenshots/sales-analysic.png)
 
 ### Limitations
 
@@ -89,7 +89,7 @@ An interactive Power BI dashboard analyzing socio-economic indicators across
 
 ### Dashboard Preview
 
-![Vietnam Socio-Economic Dashboard](screenshots/vietnam-socio-economic-dashboard.png)
+![Vietnam Socio-Economic Dashboard](screenshots/vietnam-regional-analysic.png)
 
 ### Limitations
 
