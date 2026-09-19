@@ -103,8 +103,6 @@ of the two source datasets.
 - Power BI dashboard development
 - DAX measures
 - Power Query transformations
-- SQL and relational database concepts
-- Python/pandas data processing
 - Data preparation and validation
 - Entity mapping
 - Cross-source data reconciliation
