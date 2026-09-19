@@ -89,7 +89,7 @@ An interactive Power BI dashboard analyzing socio-economic indicators across
 
 ### Dashboard Preview
 
-![Vietnam Socio-Economic Dashboard](screenshots/vietnam-regional-analysic.png)
+![Vietnam Socio-Economic Dashboard](screenshots/vietnam-regional-analysis.png)
 
 ### Limitations
 
